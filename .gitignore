@@ -1,0 +1,40 @@
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+
+# Build outputs
+bin/
+obj/
+out/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# User settings
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS and Rider caches
+*.dotCover
+*.ReSharper*/
+
+# Database files
+*.dbmdl
+
+# Debugging files
+*.pdb
+
+# Logs and temp
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
